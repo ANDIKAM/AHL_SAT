@@ -1,0 +1,1 @@
+Sucursal <strong><? echo $sucursal; ?></strong> &nbsp;|&nbsp; <a href="login.php">Cerrar sesión</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<MailConfs>
+		<MailConf>
+			<SMTPAuth>true</SMTPAuth>
+			<SMTPSecure>ssl</SMTPSecure>
+			<HOST>smtp.gmail.com</HOST>
+			<Port>465</Port>
+			<Username>publiahl@gmail.com</Username>
+			<Password>Lanzarote01</Password>
+			<SetFrom>publiahl@gmail.com</SetFrom>
+                        <SetFromName>AHL Informática</SetFromName>
+			<AddReplyTo>publiahl@gmail.com</AddReplyTo>
+		</MailConf>
+	</MailConfs>
+</xml>

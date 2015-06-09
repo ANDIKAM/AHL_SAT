@@ -1,0 +1,544 @@
+
+ [2015-01-15 11:33:18] [ Event    ] b534ba68236b Object created!
+ [2015-01-15 11:33:18] [ Event    ] 0cb929eae7a4 Object created!
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Server: 400 OK 136 67
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Setting the new credit to 136.67
+ [2015-01-15 11:33:18] [ Event    ] b534ba68236b Connected to host!
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Server: 401 USERAGENTOK
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Client: 402 ACUSEON INTERNALID
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Server: 402 OK INTERNALID
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34636676253 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Server: 403 FSUBMITOK 135 67
+ [2015-01-15 11:33:18] [ Protocol ] 2291d2ec3b30 Setting the new credit to 135.67
+ [2015-01-15 11:33:18] [ Event    ] b534ba68236b Send ID: 1
+ [2015-01-15 11:33:18] [ Event    ] b534ba68236b Status: 1
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Object created!
+ [2015-01-15 11:36:51] [ Event    ] e369853df766 Object created!
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 400 OK 135 67
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Setting the new credit to 135.67
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Connected to host!
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 1 ACUSE 329247149-1 +34636676253 1421318532 DELIVRD 1421318530 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Client: 1 ACUSEACK 329247149-1
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 401 USERAGENTOK
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b ID: 1
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Timestamp: 1421318532
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b SendTimestamp: 1421318530
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Recipient: +34636676253
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Status: 303
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 1 ACUSEACKR 329247149-1 OK
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Client: 402 ACUSEON INTERNALID
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 402 OK INTERNALID
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34680884327 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Server: 403 FSUBMITOK 134 67
+ [2015-01-15 11:36:51] [ Protocol ] 642e92efb794 Setting the new credit to 134.67
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Send ID: 1
+ [2015-01-15 11:36:51] [ Event    ] bca82e41ee7b Status: 1
+ [2015-01-20 09:15:41] [ Event    ] f4b9ec30ad9f Object created!
+ [2015-01-20 09:15:41] [ Event    ] 996a7fa078cc Object created!
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Server: 400 OK 127 67
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Setting the new credit to 127.67
+ [2015-01-20 09:15:41] [ Event    ] f4b9ec30ad9f Connected to host!
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Server: 401 USERAGENTOK
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Client: 402 ACUSEON INTERNALID
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Server: 402 OK INTERNALID
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34689443771 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Server: 403 FSUBMITOK 126 67
+ [2015-01-20 09:15:41] [ Protocol ] 7143d7fbadfa Setting the new credit to 126.67
+ [2015-01-20 09:15:41] [ Event    ] f4b9ec30ad9f Send ID: 1
+ [2015-01-20 09:15:41] [ Event    ] f4b9ec30ad9f Status: 1
+ [2015-01-20 09:20:13] [ Event    ] 1ecfb463472e Object created!
+ [2015-01-20 09:20:13] [ Event    ] fe7ee8fc1959 Object created!
+ [2015-01-20 09:20:13] [ Protocol ] 82161242827b Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 400 OK 125 67
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Setting the new credit to 125.67
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Connected to host!
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 1 ACUSE 332768184-1 +34689443771 1421745242 DELIVRD 1421745236 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Client: 1 ACUSEACK 332768184-1
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 401 USERAGENTOK
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e ID: 1
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Timestamp: 1421745242
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e SendTimestamp: 1421745236
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Recipient: +34689443771
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Status: 303
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 1 ACUSEACKR 332768184-1 OK
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Client: 402 ACUSEON INTERNALID
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 402 OK INTERNALID
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34633096917 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Server: 403 FSUBMITOK 124 67
+ [2015-01-20 09:20:14] [ Protocol ] 82161242827b Setting the new credit to 124.67
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Send ID: 1
+ [2015-01-20 09:20:14] [ Event    ] 1ecfb463472e Status: 1
+ [2015-01-23 13:26:28] [ Event    ] d4c2e4a3297f Object created!
+ [2015-01-23 13:26:28] [ Event    ] ffd52f3c7e12 Object created!
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Server: 400 OK 118 67
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Setting the new credit to 118.67
+ [2015-01-23 13:26:28] [ Event    ] d4c2e4a3297f Connected to host!
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Server: 1 ACUSE 333552696-1 +34633096917 1421831882 FAILD 1421745505 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-23 13:26:28] [ Protocol ] c399862d3b9d Client: 1 ACUSEACK 333552696-1
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Server: 401 USERAGENTOK
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f ID: 1
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Timestamp: 1421831882
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f SendTimestamp: 1421745505
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Recipient: +34633096917
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Status: 304
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Server: 1 ACUSEACKR 333552696-1 OK
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Client: 402 ACUSEON INTERNALID
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Server: 402 OK INTERNALID
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34679520364 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Server: 403 FSUBMITOK 117 67
+ [2015-01-23 13:26:29] [ Protocol ] c399862d3b9d Setting the new credit to 117.67
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Send ID: 1
+ [2015-01-23 13:26:29] [ Event    ] d4c2e4a3297f Status: 1
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Object created!
+ [2015-01-24 09:25:45] [ Event    ] 13f3cf8c5319 Object created!
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 400 OK 117 67
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Setting the new credit to 117.67
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Connected to host!
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 1 ACUSE 335910730-1 +34679520364 1422019344 DELIVRD 1422019336 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Client: 1 ACUSEACK 335910730-1
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 401 USERAGENTOK
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 ID: 1
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Timestamp: 1422019344
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 SendTimestamp: 1422019336
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Recipient: +34679520364
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Status: 303
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 1 ACUSEACKR 335910730-1 OK
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Client: 402 ACUSEON INTERNALID
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 402 OK INTERNALID
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34606733984 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Server: 403 FSUBMITOK 116 67
+ [2015-01-24 09:25:45] [ Protocol ] 6e7b33fdea3a Setting the new credit to 116.67
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Send ID: 1
+ [2015-01-24 09:25:45] [ Event    ] 06138bc5af60 Status: 1
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Object created!
+ [2015-01-24 09:26:47] [ Event    ] b56a18e0eacd Object created!
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 400 OK 116 67
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Setting the new credit to 116.67
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Connected to host!
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 1 ACUSE 336647914-1 +34606733984 1422091431 DELIVRD 1422091428 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Client: 1 ACUSEACK 336647914-1
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 401 USERAGENTOK
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 ID: 1
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Timestamp: 1422091431
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 SendTimestamp: 1422091428
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Recipient: +34606733984
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Status: 303
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 1 ACUSEACKR 336647914-1 OK
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Client: 402 ACUSEON INTERNALID
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 402 OK INTERNALID
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34679993559 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Server: 403 FSUBMITOK 115 67
+ [2015-01-24 09:26:47] [ Protocol ] cbcb58ac2e49 Setting the new credit to 115.67
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Send ID: 1
+ [2015-01-24 09:26:47] [ Event    ] c9f0f895fb98 Status: 1
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Object created!
+ [2015-01-24 09:27:27] [ Event    ] d67d8ab4f4c1 Object created!
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 400 OK 115 67
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Setting the new credit to 115.67
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Connected to host!
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 1 ACUSE 336648150-1 +34679993559 1422091493 DELIVRD 1422091489 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Client: 1 ACUSEACK 336648150-1
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 401 USERAGENTOK
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c ID: 1
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Timestamp: 1422091493
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c SendTimestamp: 1422091489
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Recipient: +34679993559
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Status: 303
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 1 ACUSEACKR 336648150-1 OK
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Client: 402 ACUSEON INTERNALID
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 402 OK INTERNALID
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34655352815 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Server: 403 FSUBMITOK 114 67
+ [2015-01-24 09:27:27] [ Protocol ] fe9fc289c3ff Setting the new credit to 114.67
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Send ID: 1
+ [2015-01-24 09:27:27] [ Event    ] 93db85ed909c Status: 1
+ [2015-01-27 18:35:04] [ Event    ] 15d4e891d784 Object created!
+ [2015-01-27 18:35:04] [ Event    ] e4da3b7fbbce Object created!
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Server: 400 OK 113 67
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Setting the new credit to 113.67
+ [2015-01-27 18:35:04] [ Event    ] 15d4e891d784 Connected to host!
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Server: 401 USERAGENTOK
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Client: 402 ACUSEON INTERNALID
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Server: 402 OK INTERNALID
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34620541285 El presupuesto de su reparacion esta terminado, puede verificarlo en http://sat.ahlinformatica.com/clientes
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Server: 403 FSUBMITOK 112 67
+ [2015-01-27 18:35:04] [ Protocol ] 357a6fdf7642 Setting the new credit to 112.67
+ [2015-01-27 18:35:04] [ Event    ] 15d4e891d784 Send ID: 1
+ [2015-01-27 18:35:04] [ Event    ] 15d4e891d784 Status: 1
+ [2015-01-29 18:33:23] [ Event    ] f4552671f890 Object created!
+ [2015-01-29 18:33:23] [ Event    ] c410003ef13d Object created!
+ [2015-01-29 18:33:23] [ Protocol ] 757b505cfd34 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 400 OK 103 67
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Setting the new credit to 103.67
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Connected to host!
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 1 ACUSE 338494132-1 +34620541285 1422383273 DELIVRD 1422383270 El presupuesto de su reparacion esta terminado, puede verificarlo en http://sat.ahlinformatica.com/clientes
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Client: 1 ACUSEACK 338494132-1
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 401 USERAGENTOK
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 ID: 1
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Timestamp: 1422383273
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 SendTimestamp: 1422383270
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Recipient: +34620541285
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Text: El presupuesto de su reparacion esta terminado, puede verificarlo en http://sat.ahlinformatica.com/clientes
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Status: 303
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 1 ACUSEACKR 338494132-1 OK
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Client: 402 ACUSEON INTERNALID
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 402 OK INTERNALID
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34619781668 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Server: 403 FSUBMITOK 102 67
+ [2015-01-29 18:33:24] [ Protocol ] 757b505cfd34 Setting the new credit to 102.67
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Send ID: 1
+ [2015-01-29 18:33:24] [ Event    ] f4552671f890 Status: 1
+ [2015-01-29 18:39:25] [ Event    ] fde9264cf376 Object created!
+ [2015-01-29 18:39:25] [ Event    ] c52f1bd66cc1 Object created!
+ [2015-01-29 18:39:25] [ Protocol ] 7750ca3559e5 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 400 OK 102 67
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Setting the new credit to 102.67
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Connected to host!
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Client: 401 USERAGENT API PHP version 2.1
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 1 ACUSE 339792063-1 +34619781668 1422555990 DELIVRD 1422555987 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Client: 1 ACUSEACK 339792063-1
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 401 USERAGENTOK
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 ID: 1
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Timestamp: 1422555990
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 SendTimestamp: 1422555987
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Recipient: +34619781668
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Status: 303
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 1 ACUSEACKR 339792063-1 OK
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Client: 402 ACUSEON INTERNALID
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 402 OK INTERNALID
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34618089489 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Server: 403 FSUBMITOK 101 67
+ [2015-01-29 18:39:26] [ Protocol ] 7750ca3559e5 Setting the new credit to 101.67
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Send ID: 1
+ [2015-01-29 18:39:26] [ Event    ] fde9264cf376 Status: 1
+ [2015-02-06 17:46:13] [ Event    ] 3328bdf9a4b9 Object created!
+ [2015-02-06 17:46:13] [ Event    ] d6c651ddcd97 Object created!
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Server: 400 OK 24 67
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Setting the new credit to 24.67
+ [2015-02-06 17:46:14] [ Event    ] 3328bdf9a4b9 Connected to host!
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Server: 401 USERAGENTOK
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Client: 402 ACUSEON INTERNALID
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Server: 402 OK INTERNALID
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34680945682 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Server: 403 FSUBMITOK 23 67
+ [2015-02-06 17:46:14] [ Protocol ] f8c1f23d6a8d Setting the new credit to 23.67
+ [2015-02-06 17:46:14] [ Event    ] 3328bdf9a4b9 Send ID: 1
+ [2015-02-06 17:46:14] [ Event    ] 3328bdf9a4b9 Status: 1
+ [2015-02-10 10:26:21] [ Event    ] c5ab0bc60ac7 Object created!
+ [2015-02-10 10:26:21] [ Event    ] 8d317bdcf4aa Object created!
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Server: 400 OK 21 67
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Setting the new credit to 21.67
+ [2015-02-10 10:26:21] [ Event    ] c5ab0bc60ac7 Connected to host!
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Server: 401 USERAGENTOK
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Client: 402 ACUSEON INTERNALID
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Server: 402 OK INTERNALID
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34679312740 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Server: 403 FSUBMITOK 20 67
+ [2015-02-10 10:26:21] [ Protocol ] ae0eb3eed39d Setting the new credit to 20.67
+ [2015-02-10 10:26:21] [ Event    ] c5ab0bc60ac7 Send ID: 1
+ [2015-02-10 10:26:21] [ Event    ] c5ab0bc60ac7 Status: 1
+ [2015-02-11 10:45:54] [ Event    ] 1bb91f73e9d3 Object created!
+ [2015-02-11 10:45:54] [ Event    ] 170c94497849 Object created!
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 400 OK 19 67
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Setting the new credit to 19.67
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Connected to host!
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 1 ACUSE 347630305-1 +34679312740 1423563829 DELIVRD 1423563826 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Client: 1 ACUSEACK 347630305-1
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 401 USERAGENTOK
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 ID: 1
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Timestamp: 1423563829
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 SendTimestamp: 1423563826
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Recipient: +34679312740
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Status: 303
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 1 ACUSEACKR 347630305-1 OK
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Client: 402 ACUSEON INTERNALID
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 402 OK INTERNALID
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34646017130 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Server: 403 FSUBMITOK 18 67
+ [2015-02-11 10:45:55] [ Protocol ] 0266e33d3f54 Setting the new credit to 18.67
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Send ID: 1
+ [2015-02-11 10:45:55] [ Event    ] 1bb91f73e9d3 Status: 1
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Object created!
+ [2015-02-11 12:07:08] [ Event    ] 69421f032498 Object created!
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 400 OK 18 67
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Setting the new credit to 18.67
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Connected to host!
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 401 USERAGENTOK
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Client: 402 ACUSEON INTERNALID
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 1 ACUSE 348398253-1 +34646017130 1423651396 DELIVRD 1423651391 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Client: 1 ACUSEACK 348398253-1
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 402 OK INTERNALID
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 ID: 1
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Timestamp: 1423651396
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 SendTimestamp: 1423651391
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Recipient: +34646017130
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Status: 303
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 1 ACUSEACKR 348398253-1 OK
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34686536385 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Server: 403 FSUBMITOK 17 67
+ [2015-02-11 12:07:08] [ Protocol ] 10a7cdd970fe Setting the new credit to 17.67
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Send ID: 1
+ [2015-02-11 12:07:08] [ Event    ] c9892a989183 Status: 1
+ [2015-02-13 18:57:55] [ Event    ] 1a5b1e4daae2 Object created!
+ [2015-02-13 18:57:55] [ Event    ] 6a9aeddfc689 Object created!
+ [2015-02-13 18:57:55] [ Protocol ] 85422afb467e Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Server: 400 OK 9 67
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Setting the new credit to 9.67
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 Connected to host!
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Server: 1 ACUSE 348722163-1 +34686536385 1423669214 DELIVRD 1423656220 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Client: 1 ACUSEACK 348722163-1
+ [2015-02-13 18:57:58] [ Protocol ] 85422afb467e Server: 401 USERAGENTOK
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 ID: 1
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 Timestamp: 1423669214
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 SendTimestamp: 1423656220
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 Recipient: +34686536385
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 18:57:58] [ Event    ] 1a5b1e4daae2 Status: 303
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Server: 1 ACUSEACKR 348722163-1 OK
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Client: 402 ACUSEON INTERNALID
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Server: 402 OK INTERNALID
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34655352815 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Server: 403 FSUBMITOK 8 67
+ [2015-02-13 18:57:59] [ Protocol ] 85422afb467e Setting the new credit to 8.67
+ [2015-02-13 18:57:59] [ Event    ] 1a5b1e4daae2 Send ID: 1
+ [2015-02-13 18:57:59] [ Event    ] 1a5b1e4daae2 Status: 1
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Object created!
+ [2015-02-13 19:00:07] [ Event    ] 44c4c17332ca Object created!
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 400 OK 8 67
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Setting the new credit to 8.67
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Connected to host!
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 1 ACUSE 351023630-1 +34655352815 1423853447 DELIVRD 1423853445 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Client: 1 ACUSEACK 351023630-1
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 401 USERAGENTOK
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 ID: 1
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Timestamp: 1423853447
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 SendTimestamp: 1423853445
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Recipient: +34655352815
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Status: 303
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 1 ACUSEACKR 351023630-1 OK
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Client: 402 ACUSEON INTERNALID
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 402 OK INTERNALID
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34659742609 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Server: 403 FSUBMITOK 7 67
+ [2015-02-13 19:00:07] [ Protocol ] 35f4a8d465e6 Setting the new credit to 7.67
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Send ID: 1
+ [2015-02-13 19:00:07] [ Event    ] e2230b853516 Status: 1
+ [2015-02-14 12:02:56] [ Event    ] 11b921ef080f Object created!
+ [2015-02-14 12:02:56] [ Event    ] dd458505749b Object created!
+ [2015-02-14 12:02:56] [ Protocol ] 3295c76acbf4 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 400 OK 7 67
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Setting the new credit to 7.67
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Connected to host!
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 1 ACUSE 351024559-1 +34659742609 1423853578 DELIVRD 1423853572 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Client: 1 ACUSEACK 351024559-1
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 401 USERAGENTOK
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f ID: 1
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Timestamp: 1423853578
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f SendTimestamp: 1423853572
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Recipient: +34659742609
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Status: 303
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 1 ACUSEACKR 351024559-1 OK
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Client: 402 ACUSEON INTERNALID
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 402 OK INTERNALID
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34637272660 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Server: 403 FSUBMITOK 6 67
+ [2015-02-14 12:03:07] [ Protocol ] 3295c76acbf4 Setting the new credit to 6.67
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Send ID: 1
+ [2015-02-14 12:03:07] [ Event    ] 11b921ef080f Status: 1
+ [2015-02-21 09:49:48] [ Event    ] 8b5040a8a5ba Object created!
+ [2015-02-21 09:49:48] [ Event    ] 3435c378bb76 Object created!
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Server: 400 OK 147 67
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Setting the new credit to 147.67
+ [2015-02-21 09:49:48] [ Event    ] 8b5040a8a5ba Connected to host!
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Server: 401 USERAGENTOK
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Client: 402 ACUSEON INTERNALID
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Server: 402 OK INTERNALID
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34629178009 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Server: 403 FSUBMITOK 146 67
+ [2015-02-21 09:49:48] [ Protocol ] f0adc8838f4b Setting the new credit to 146.67
+ [2015-02-21 09:49:48] [ Event    ] 8b5040a8a5ba Send ID: 1
+ [2015-02-21 09:49:48] [ Event    ] 8b5040a8a5ba Status: 1
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Object created!
+ [2015-02-21 09:50:04] [ Event    ] c399862d3b9d Object created!
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 400 OK 146 67
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Setting the new credit to 146.67
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Connected to host!
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 1 ACUSE 355027052-1 +34629178009 1424512064 DELIVRD 1424512061 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Client: 1 ACUSEACK 355027052-1
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 401 USERAGENTOK
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 ID: 1
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Timestamp: 1424512064
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 SendTimestamp: 1424512061
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Recipient: +34629178009
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Status: 303
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 1 ACUSEACKR 355027052-1 OK
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Client: 402 ACUSEON INTERNALID
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 402 OK INTERNALID
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34629178009 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Server: 403 FSUBMITOK 145 67
+ [2015-02-21 09:50:04] [ Protocol ] dc6a70712a25 Setting the new credit to 145.67
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Send ID: 1
+ [2015-02-21 09:50:04] [ Event    ] 38af86134b65 Status: 1
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Object created!
+ [2015-02-21 09:50:16] [ Event    ] 577bcc914f9e Object created!
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 400 OK 145 67
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Setting the new credit to 145.67
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Connected to host!
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 1 ACUSE 355027069-1 +34629178009 1424512080 DELIVRD 1424512077 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Client: 1 ACUSEACK 355027069-1
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 401 USERAGENTOK
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc ID: 1
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Timestamp: 1424512080
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc SendTimestamp: 1424512077
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Recipient: +34629178009
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Status: 303
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 1 ACUSEACKR 355027069-1 OK
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Client: 402 ACUSEON INTERNALID
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 402 OK INTERNALID
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34629178009 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Server: 403 FSUBMITOK 144 67
+ [2015-02-21 09:50:16] [ Protocol ] 3def184ad8f4 Setting the new credit to 144.67
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Send ID: 1
+ [2015-02-21 09:50:16] [ Event    ] 8ebda540cbcc Status: 1
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Object created!
+ [2015-02-23 09:20:41] [ Event    ] 05f971b5ec19 Object created!
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 400 OK 144 67
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Setting the new credit to 144.67
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Connected to host!
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 1 ACUSE 355027083-1 +34629178009 1424512091 DELIVRD 1424512089 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Client: 1 ACUSEACK 355027083-1
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 401 USERAGENTOK
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 ID: 1
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Timestamp: 1424512091
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 SendTimestamp: 1424512089
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Recipient: +34629178009
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Status: 303
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 1 ACUSEACKR 355027083-1 OK
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Client: 402 ACUSEON INTERNALID
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 402 OK INTERNALID
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34659313124 El presupuesto de su reparacion esta terminado, puede verificarlo en http://sat.ahlinformatica.com/clientes
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Server: 403 FSUBMITOK 143 67
+ [2015-02-23 09:20:41] [ Protocol ] 9232fe81225b Setting the new credit to 143.67
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Send ID: 1
+ [2015-02-23 09:20:41] [ Event    ] a97da629b098 Status: 1
+ [2015-02-27 17:22:24] [ Event    ] b6a1085a27ab Object created!
+ [2015-02-27 17:22:24] [ Event    ] 6d0f846348a8 Object created!
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Server: 400 OK 131 67
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Setting the new credit to 131.67
+ [2015-02-27 17:22:25] [ Event    ] b6a1085a27ab Connected to host!
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Server: 401 USERAGENTOK
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Client: 402 ACUSEON INTERNALID
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Server: 402 OK INTERNALID
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34659313124 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Server: 403 FSUBMITOK 130 57
+ [2015-02-27 17:22:25] [ Protocol ] 1ce927f87586 Setting the new credit to 130.57
+ [2015-02-27 17:22:25] [ Event    ] b6a1085a27ab Send ID: 1
+ [2015-02-27 17:22:25] [ Event    ] b6a1085a27ab Status: 1
+ [2015-02-27 17:43:13] [ Event    ] 99bcfcd754a9 Object created!
+ [2015-02-27 17:43:13] [ Event    ] a4a042cf4fd6 Object created!
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Server: 400 OK 130 67
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Setting the new credit to 130.67
+ [2015-02-27 17:43:13] [ Event    ] 99bcfcd754a9 Connected to host!
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Client: 401 USERAGENT API PHP version 2.1
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Server: 401 USERAGENTOK
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Client: 402 ACUSEON INTERNALID
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Server: 402 OK INTERNALID
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34635950181 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Server: 403 FSUBMITOK 129 57
+ [2015-02-27 17:43:13] [ Protocol ] 65658fde58ab Setting the new credit to 129.57
+ [2015-02-27 17:43:13] [ Event    ] 99bcfcd754a9 Send ID: 1
+ [2015-02-27 17:43:13] [ Event    ] 99bcfcd754a9 Status: 1
+ [2015-03-09 17:47:57] [ Event    ] c9f0f895fb98 Object created!
+ [2015-03-09 17:47:57] [ Event    ] 1679091c5a88 Object created!
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Server: 400 OK 123 67
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Setting the new credit to 123.67
+ [2015-03-09 17:47:57] [ Event    ] c9f0f895fb98 Connected to host!
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Client: 401 USERAGENT API PHP version 2.1
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Server: 401 USERAGENTOK
+ [2015-03-09 17:47:57] [ Protocol ] 7f5d04d189df Client: 402 ACUSEON INTERNALID
+ [2015-03-09 17:47:58] [ Protocol ] 7f5d04d189df Server: 402 OK INTERNALID
+ [2015-03-09 17:47:58] [ Protocol ] 7f5d04d189df Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34685618807 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-03-09 17:47:58] [ Protocol ] 7f5d04d189df Server: 403 FSUBMITOK 122 57
+ [2015-03-09 17:47:58] [ Protocol ] 7f5d04d189df Setting the new credit to 122.57
+ [2015-03-09 17:47:58] [ Event    ] c9f0f895fb98 Send ID: 1
+ [2015-03-09 17:47:58] [ Event    ] c9f0f895fb98 Status: 1
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Object created!
+ [2015-03-12 10:51:37] [ Event    ] ffd52f3c7e12 Object created!
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Client: 400 LOGIN TEST210829 [...] Logger version 1.9.2
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 400 OK 120 67
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Setting the new credit to 120.67
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Connected to host!
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Client: 401 USERAGENT API PHP version 2.1
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 1 ACUSE 361942800-1 +34685618807 1425922875 DELIVRD 1425922873 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Client: 1 ACUSEACK 361942800-1
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 401 USERAGENTOK
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 ID: 1
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Timestamp: 1425922875
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 SendTimestamp: 1425922873
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Recipient: +34685618807
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Text: Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Status: 303
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 1 ACUSEACKR 361942800-1 OK
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Client: 402 ACUSEON INTERNALID
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 402 OK INTERNALID
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Client: 403 FSUBMIT [id=1] [allowanswer] Lleidanet +34686273683 Su reparacion esta terminada, puede retirar su equipo en la sucursal de AHL Informatica. Muchas gracias.
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Server: 403 FSUBMITOK 119 57
+ [2015-03-12 10:51:37] [ Protocol ] 1f0e3dad9990 Setting the new credit to 119.57
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Send ID: 1
+ [2015-03-12 10:51:37] [ Event    ] a3c65c297427 Status: 1

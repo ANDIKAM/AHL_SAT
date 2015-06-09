@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<WhatsappConfs>
+		<WhatsappConf>
+			<userphone>636905339</userphone>
+			<password>rBG81MaDAT4rpcM7XiRKf8y2z+0=</password>
+			<application>AHL INFORMATICA</application>
+			<debug>false</debug>
+                        <codpais>34</codpais>
+		</WhatsappConf>
+	</WhatsappConfs>
+</xml>

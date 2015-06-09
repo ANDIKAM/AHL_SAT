@@ -1,0 +1,456 @@
+# Webalizer V2.01-10 Incremental Data - 10/20/2014 16:55:20
+2014 10 20 16 55 20
+1958 1858 39 52 39 17 391488688 1713 188 0
+3 36 71 1 20
+133 128 28305058 6 119 11
+130 125 25151958 4 116 10
+114 110 24543028 5 102 8
+98 94 19921083 9 84 14
+7 5 9997 5 5 5
+126 119 32519108 7 119 16
+106 101 20709730 3 101 13
+99 94 29836140 6 92 9
+91 86 12441130 4 76 7
+121 110 26231817 3 110 12
+63 59 6447051 4 58 5
+5 4 7140 3 3 3
+85 81 18067284 5 72 9
+106 101 18712681 4 85 8
+191 183 36527463 7 145 13
+120 114 24598344 8 105 15
+124 118 24582925 7 117 12
+42 39 5033127 4 29 7
+1 1 1225 1 0 0
+196 186 37842399 3 175 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 4 7140 3
+8 6 9431 5
+4 3 5915 3
+6 5 5999 5
+3 2 34434 1
+3 3 2168107 3
+45 41 10332163 36
+234 219 36354505 204
+284 273 56743122 244
+322 315 76616538 288
+121 117 31094935 113
+1 1 42 1
+6 4 8164 4
+28 25 4203541 25
+301 280 48568630 278
+269 262 53504932 237
+269 255 65140408 221
+30 28 6559350 28
+6 4 6289 4
+1 1 42 1
+1 1 1833 1
+6 5 115420 4
+5 4 7748 4
+0 0 0 0
+0
+0
+0
+1858
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+10
+0
+0
+0
+0
+0
+0
+89
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/ventas.php
+0 214 0 31281297 27 0
+/
+0 135 0 333647 37 12
+/clientes_presupuesto_ver.php
+0 2 0 18306 0 1
+/clientes_reutilizar.php
+0 1 0 1271392 0 0
+/clientes_nuevo_presupuesto.php
+0 10 456104976 104596 0 0
+/images/fondo_menu_izq.png
+1 15 0 44670 0 0
+/images/LOGO-AHL.png
+1 19 0 516698 0 0
+/clientes.php
+0 78 0 75614502 10 9
+/cargarlistadeempresas.php
+0 12 0 41366 0 0
+/computadoras_aviso_terminado.php
+0 19 0 52827 0 0
+/ventas_eliminar.php
+0 4 0 10938 0 0
+/images/abajo.png
+1 16 0 49770 0 0
+/consolas.php
+0 2 0 471067 0 0
+/libmoviles_orden.php
+0 1 0 5351 0 0
+/login.php
+0 229 0 426507 78 21
+/clientes/
+0 4 0 0 3 1
+/libmoviles_facturar.php
+0 4 0 11930 0 0
+/empresas_editar.php
+0 3 0 35032 0 0
+/ventas_facturar.php
+0 49 0 4163 0 0
+/cargarlistadeclientes.php
+0 36 0 46591 0 1
+/facturas_editar.php
+0 13 0 2758215 0 0
+/barras/image.php
+0 142 0 26498 0 5
+/images/fondo_menu_der.png
+1 16 353387741953 44715 0 0
+/images/top.png
+1 16 7002588541653120368 49395 0 0
+/facturas_eliminar_item.php
+0 2 82 5534 0 0
+/cargarcomponentes_rm.php
+0 1 456017216 1094 0 0
+/repmoviles_facturar.php
+0 4 0 11926 0 0
+/computadoras_facturar.php
+0 38 0 116247 0 0
+/libmoviles.php
+0 10 0 2361298 0 1
+/libmoviles_aviso_terminado.php
+0 2 0 5555 0 0
+/facturas_detalle.php
+0 17 0 74878 1 1
+/images/fondo_menu_medio.png
+1 16 0 42420 0 0
+/computadoras.php
+0 163 0 50444369 7 14
+/empresas_reutilizar.php
+0 1 0 216808 0 0
+/images/sat.png
+1 15 0 127372 0 0
+/images/medio.png
+1 15 0 41776 0 0
+/libmoviles_editar.php
+0 8 0 1890149 0 1
+/images/LOGO-AHL-2.png
+1 16 0 527040 0 0
+/repmoviles_editar.php
+0 35 0 8287708 0 6
+/empresas_nuevo_presupuesto.php
+0 1 0 10429 0 0
+/estilos.css
+0 11 0 11025 0 0
+/empresas_lista.php
+0 21 0 4667313 0 3
+/computadoras_orden.php
+0 21 0 105733 0 0
+/computadoras_editar.php
+0 120 0 25691506 0 23
+/facturas_imprimir.php
+0 78 0 322179 0 0
+/clientes_editar.php
+0 23 0 338522 0 5
+/facturas.php
+0 137 0 173468942 23 51
+/repmoviles_orden.php
+0 9 0 43809 0 0
+/repmoviles.php
+0 41 0 9116054 1 1
+/news_empresas/0031-navidad.jpg
+1 1 0 111296 0 0
+/cargarcomponentes.php
+0 18 0 20935 0 1
+/repmoviles_aviso_terminado.php
+0 4 0 10540 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-66-249-93-65.google.com
+0 3 2 2207 2 1413484097
+/clientes/
+baiduspider-180-76-5-25.crawl.baidu.com
+0 1 0 2207 0 0
+-
+baiduspider-180-76-5-143.crawl.baidu.com
+0 1 1 42 1 1412439604
+/
+baiduspider-180-76-5-150.crawl.baidu.com
+0 1 1 1833 1 1412131422
+/login.php
+104.131.237.6
+0 1 1 42 1 1412769439
+/
+213.red-83-54-65.dynamicip.rima-tde.net
+0 126 120 23776206 6 1413824120
+/facturas.php
+baiduspider-180-76-5-176.crawl.baidu.com
+0 1 1 1833 1 1412439605
+/login.php
+119.63.193.131
+0 1 1 42 1 1412989743
+/
+crawl-66-249-67-114.googlebot.com
+0 5 4 5957 4 1412604732
+/login.php
+crawl-66-249-78-65.googlebot.com
+0 8 7 8449 4 1413074154
+/
+180.76.6.232
+0 1 1 1833 1 1412376052
+/login.php
+29.red-83-40-136.dynamicip.rima-tde.net
+0 1 1 111296 0 0
+-
+crawl-66-249-78-58.googlebot.com
+0 7 7 5667 5 1413410168
+/
+crawl-66-249-78-51.googlebot.com
+0 3 3 5499 3 1413074303
+/login.php
+180.76.6.45
+0 1 1 42 1 1412836454
+/
+180.76.6.54
+0 1 1 42 1 1412131421
+/
+180.76.6.57
+0 1 1 1225 0 0
+-
+180.76.6.59
+0 1 0 2207 0 0
+-
+crawl-66-249-67-122.googlebot.com
+0 1 1 1833 1 1412558289
+/login.php
+145.red-79-146-248.dynamicip.rima-tde.net
+0 259 255 28179469 18 1413817745
+/computadoras.php
+crawl-66-249-79-114.googlebot.com
+0 1 0 2207 0 0
+-
+113.red-95-122-92.staticip.rima-tde.net
+0 2 1 2207 1 1413484117
+/clientes/
+crawl-66-249-67-130.googlebot.com
+0 5 3 8122 3 1412583843
+/
+107.170.149.233
+0 1 1 0 1 1412631185
+/
+182.red-79-153-170.dynamicip.rima-tde.net
+0 3 1 2542 1 1413359281
+/clientes/
+ptr.cnsat.com.cn
+0 1 1 42 1 1412989646
+/
+baiduspider-180-76-5-81.crawl.baidu.com
+0 1 1 42 1 1413202725
+/
+85.155.170.30.dyn.user.ono.com
+0 793 783 235860543 53 1413821639
+/repmoviles_editar.php
+149.red-88-9-26.dynamicip.rima-tde.net
+0 688 630 103386690 57 1413625870
+/facturas.php
+180.76.6.133
+0 2 0 4414 0 0
+-
+180.76.6.141
+0 1 0 2207 0 0
+-
+crawl-66-249-79-130.googlebot.com
+0 2 2 3058 1 1412754206
+/login.php
+180.76.6.151
+0 1 1 1833 1 1412836455
+/login.php
+crawl-66-249-64-6.googlebot.com
+0 10 7 12288 5 1413622722
+/login.php
+baiduspider-180-76-5-22.crawl.baidu.com
+0 1 1 1833 1 1413202726
+/login.php
+crawl-66-249-64-10.googlebot.com
+0 14 10 22968 8 1413602604
+/login.php
+205.red-195-57-96.customer.static.ccgg.telefonica.net
+0 2 2 60788 0 0
+-
+baiduspider-180-76-5-95.crawl.baidu.com
+0 2 2 1875 1 1413509936
+/login.php
+crawl-66-249-64-3.googlebot.com
+0 4 3 7098 2 1413599100
+/login.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+213.red-83-54-65.dynamicip.rima-tde.net
+0 126 120 23776206 6 1413824120
+/facturas.php
+145.red-79-146-248.dynamicip.rima-tde.net
+0 28 26 3654431 3 1413817745
+/computadoras.php
+85.155.170.30.dyn.user.ono.com
+0 42 40 10411762 2 1413821639
+/repmoviles_editar.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://sat.ahlinformatica.com/consolas.php
+1 2
+http://sat.ahlinformatica.com/clientes_reutilizar.php
+1 1
+http://sat.ahlinformatica.com/computadoras_orden.php
+1 44
+http://sat.ahlinformatica.com/repmoviles_orden.php
+1 19
+- (Direct Request)
+0 274
+http://www.google.com/search
+0 1
+http://sat.ahlinformatica.com/libmoviles_facturar.php
+1 4
+http://sat.ahlinformatica.com/libmoviles_aviso_terminado.php
+1 2
+http://sat.ahlinformatica.com/
+1 27
+http://sat.ahlinformatica.com/empresas_nuevo_presupuesto.php
+1 1
+http://sat.ahlinformatica.com/ventas_eliminar.php
+1 4
+http://sat.ahlinformatica.com/computadoras_facturar.php
+1 38
+http://sat.ahlinformatica.com/libmoviles_orden.php
+1 2
+http://sat.ahlinformatica.com/libmoviles.php
+1 10
+http://sat.ahlinformatica.com/empresas_editar.php
+1 3
+http://sat.ahlinformatica.com/ventas_facturar.php
+1 49
+http://sat.ahlinformatica.com/index.php
+1 134
+http://sat.ahlinformatica.com/repmoviles_facturar.php
+1 4
+http://sat.ahlinformatica.com/facturas_editar.php
+1 23
+http://sat.ahlinformatica.com/clientes_presupuesto_ver.php
+1 1
+http://sat.ahlinformatica.com/empresas_reutilizar.php
+1 1
+http://sat.ahlinformatica.com/repmoviles_aviso_terminado.php
+1 4
+http://sat.ahlinformatica.com/computadoras.php
+1 149
+http://sat.ahlinformatica.com/facturas.php
+1 97
+http://sat.ahlinformatica.com/ventas.php
+1 295
+http://sat.ahlinformatica.com/computadoras_editar.php
+1 118
+http://sat.ahlinformatica.com/libmoviles_editar.php
+1 6
+http://sat.ahlinformatica.com/repmoviles_editar.php
+1 27
+http://sat.ahlinformatica.com/clientes_nuevo_presupuesto.php
+1 10
+http://sat.ahlinformatica.com/facturas_detalle.php
+1 33
+http://sat.ahlinformatica.com/repmoviles.php
+1 37
+http://sat.ahlinformatica.com/empresas_lista.php
+1 23
+http://www.netcraft.com/survey/
+0 1
+http://sat.ahlinformatica.com/facturas_imprimir.php
+1 165
+http://sat.ahlinformatica.com/login.php
+1 234
+http://sat.ahlinformatica.com/computadoras_aviso_terminado.php
+1 19
+http://sat.ahlinformatica.com/clientes_editar.php
+1 19
+http://sat.ahlinformatica.com/facturas_eliminar_item.php
+1 2
+http://sat.ahlinformatica.com/clientes.php
+1 75
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 12
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)
+0 30
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1052
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 2
+Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 44
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 16
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 145
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 2
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 639
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

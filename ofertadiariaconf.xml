@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<OfertasDiarias>
+		<OfertaDiaria>
+			<Texto>AHL INFORMATICA TE PRESENTA LA SEMANA DEL IPHONE LIBERA TU IPHONE DE CUALQUIER COMPAÑIA ESPAÑOLA MOVISTAR - ORANGE - VODAFONE - YOIGO POR TAN SOLO 15 EUROS OFERTA VALIDA HASTA EL 10/05/2015. www.ahlinformatica.com .</Texto>
+                        <audio>1</audio>
+                        <imagen>0</imagen>
+                        <text>1</text>
+                        <imagenurl>/home/ahlinformatica/domains/sat.ahlinformatica.com/public_html/js/ofertadiaria/imagen.jpg</imagenurl>
+                        <audiourl>/home/ahlinformatica/domains/sat.ahlinformatica.com/public_html/js/ofertadiaria/audio.mp3</audiourl>
+		</OfertaDiaria>
+	</OfertasDiarias>
+</xml>
